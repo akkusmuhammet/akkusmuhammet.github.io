@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>http://localhost:4321/project/</link>
+      <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>http://localhost:4321/project/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Comparative Politics - Fall 2024, Fall 2023</title>
+      <link>http://localhost:4321/project/comparative-politics-fall.md/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/comparative-politics-fall.md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion and Politics - Fall 2024</title>
+      <link>http://localhost:4321/project/religion-politics.md/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/religion-politics.md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion and Politics in the Middle East - Spring 2023</title>
+      <link>http://localhost:4321/project/religion-politics-me.md/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/religion-politics-me.md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics and Movies - Winter 2023</title>
+      <link>http://localhost:4321/project/politicsandmovies.md/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/politicsandmovies.md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middle Eastern Politics - Spring 2025 (Upcoming)</title>
+      <link>http://localhost:4321/project/middle-eastern-politics.md/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/middle-eastern-politics.md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Comparative Politics - Spring 2025 (Upcoming)</title>
+      <link>http://localhost:4321/project/comparative-politics-spring.md/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/comparative-politics-spring.md/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:4321/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/example/</guid>
+      <description>&lt;!-- ---
+date: &#34;2016-04-27T00:00:00Z&#34;
+external_link: &#34;&#34;
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+slides: example
+summary: An example of using the in-built project page.
+tags:
+- Deep Learning
+title: Example Project
+url_code: &#34;&#34;
+url_pdf: &#34;&#34;
+url_slides: &#34;&#34;
+url_video: &#34;&#34;
+---
+
+Lorem ipsum  --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
